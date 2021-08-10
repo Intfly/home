@@ -11,6 +11,7 @@ a{
 
 a:hover{
   font-size: 5em;
+  text-decoration: underline;
 }
 
 p{
